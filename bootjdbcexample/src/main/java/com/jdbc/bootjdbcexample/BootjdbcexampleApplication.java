@@ -1,13 +1,13 @@
-package com.springboot.file.springbootfile;
+package com.jdbc.bootjdbcexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootfileApplication {
+public class BootjdbcexampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootfileApplication.class, args);
+		SpringApplication.run(BootjdbcexampleApplication.class, args);
 	}
 
 }
